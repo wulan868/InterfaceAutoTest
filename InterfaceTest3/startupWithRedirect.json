@@ -14,7 +14,7 @@
     "redirectTo":"/redirect/new"
   },
   {
-    "description":"这是被重定向到的请求",
+    "description":"这是被重定向到的请求凄凄切切",
     "request":{
       "uri":"/redirect/new"
     },
